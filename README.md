@@ -1,5 +1,5 @@
 # data_analysis_thanwayaAma
-## web scrabbing step:
+## web scrabbing steps:
 - choose web site:web site divided into pass student and fail student
 - for example: http://natega.dostor.org/
 - make http request : https://curlconverter.com/
