@@ -18,4 +18,7 @@
  3. async cocurrent way : most effictive way
 - last step save the result into csv file
 ## EDA STEP:
-
+- merge two datset for both first and second trial
+- add gender column 
+- delete interntional student
+- do EDA for the data
