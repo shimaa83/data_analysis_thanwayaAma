@@ -1,5 +1,5 @@
 # data_analysis_thanwayaAma
-project under supervision of Omdena chapter
+project under supervision of Omdena challange
 ## web scrabbing steps:
 - range from 100,000 to 999,999
 - Group A(الدور الثانى فقط)only 140,000 student
