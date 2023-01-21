@@ -25,4 +25,4 @@
 - do EDA for the data
 ## Visualization:
 - power BI or tableau  or
-- Selenium library in python 
+- streamlit library in python 
