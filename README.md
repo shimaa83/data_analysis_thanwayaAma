@@ -13,7 +13,7 @@
 
 - make http request : https://curlconverter.com/
 -  making web scrab using (Beauitful Soub library)
--  three wayes to make web scrabbing:
+-  three wayes to make web scrabbing::
  1. sync approach:slow way
  2. async approach : faster than sync
  3. async cocurrent way : most effictive way
@@ -23,3 +23,6 @@
 - add gender column 
 - delete interntional student
 - do EDA for the data
+## Visualization:
+- power BI or tableau  or
+- Selenium library in python 
